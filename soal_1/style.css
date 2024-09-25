@@ -1,0 +1,9 @@
+li{background-color: rgb(37, 91, 173);
+    border: 2px solid rgba(20, 139, 148, 0.562);
+    margin: 10px;
+    text-align: center;
+    width: 100px;height: 50px;}
+ul{flex-direction: row;
+    display: flex;}
+a{text-decoration: none;
+    color: aliceblue;}
